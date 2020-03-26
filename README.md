@@ -15,6 +15,11 @@ In this way, it hides its malicious behaviors.
 
 ## TikTokDownloader
 
+This app plagiarizes the "signature" algorithm implemented in TikTok by using DICI
+to achieve downloading videos from their server which is blocked by TikTok normally.
+  * The source code of this app can be found at: <https://github.com/gaojun0816/tiktok_stealer>
+  * The required TikTok app is: musical-ly-7-3-0.apk. Out of anonymous review consideration, the link to download this app will be provided later.
+
 
 
 
