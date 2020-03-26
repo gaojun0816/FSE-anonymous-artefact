@@ -20,6 +20,13 @@ to achieve downloading videos from their server which is blocked by TikTok norma
   * The source code of this app can be found at: <https://github.com/gaojun0816/tiktok_stealer>
   * The required TikTok app is: musical-ly-7-3-0.apk. Out of anonymous review consideration, the link to download this app will be provided later.
 
+## DICIDer
+
+DICIDer is a tool takes as input an Android APK file and outputs a list of DICI 
+paths that trace how direct inter-app code invocations are planned in the analyzed app.
+  * The source code of this tool can be found at: <https://anonymous.4open.science/r/d6b67f88-341d-4696-881d-39ea08329b13/>
+  * The tool requires the source of [Soot](https://github.com/Sable/soot) and [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) to be add as required projects on the build path.
+
 
 
 
